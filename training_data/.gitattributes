@@ -1,0 +1,1 @@
+spectra_GIRAFFE_HR15N_training.fits filter=lfs diff=lfs merge=lfs -text
